@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # Variables
 XXDIR="$HOME/termux-setup"
-XPKGS=("nano" "curl" "git" "wget" "openssh")
+XPKGS="nano curl git wget openssh"
 XSHELL="fish"
 QUIET="> /dev/null 2>&1"
 
