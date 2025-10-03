@@ -116,6 +116,7 @@ setup_main() {
     xslsp
     make_dirs
     xslsp
+    git clone https://github.com/wtfxetra/termux-setup ~/termux-setup
     copy_config
     xslsp
     #gh-ssh-setup
